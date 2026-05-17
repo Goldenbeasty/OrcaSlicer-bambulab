@@ -1,3 +1,6 @@
+This code has been licensed to me under the GNU Affero General Public License Version 3.
+You may receive a copy of this license from http://www.gnu.org/licenses/
+
 <div align="center">
 
 <picture>
